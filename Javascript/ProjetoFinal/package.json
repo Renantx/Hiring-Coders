@@ -1,0 +1,17 @@
+{
+    "name": "projetofinal",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "dependencies": {
+        "jshint": "^2.13.0",
+        "readline-sync": "^1.4.10"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "start": "node app.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
